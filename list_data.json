@@ -3,8 +3,8 @@
 		{
 			"City Name": "Seattle",
 			"Country": "Washington, U.S.",
-			"Current Population (2023, Wikipedia)": "737,015",
-			"Favorite Staple Food": "Clam Chowder or Seattle Dog"
+			"Current Population (Ranges from 2020 - 2023, Wikipedia)": "737,015",
+			"Favorite Staple Food": "Clam Chowder"
 		},
 		{
 			"City Name": "Puerto Princesa",
@@ -16,7 +16,7 @@
 			"Title": "Osaka",
 			"Country": "Japan",
 			"Current Population (2021, Wikipedia)": "2,753,862",
-			"Favorite Staple Food": "Takoyaki or Okonomiyaki"
+			"Favorite Staple Food": "Okonomiyaki"
 		},
 		{
 			"City Name": "Harrisburg",
