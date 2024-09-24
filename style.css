@@ -10,6 +10,20 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+ #mainNav {
+  background-image: url('seattle.jpeg'); /* Direct path to the image */
+  background-size: cover; /* Ensure the image covers the entire navbar */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repetition */
+  height: 60px; /* Set a height for the navbar */
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  color: white; /* Text color to contrast with the background image */
+  padding: 10px; /* Add padding to the text */
+}
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
