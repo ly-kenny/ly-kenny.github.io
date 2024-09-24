@@ -1,55 +1,55 @@
 {
 	"Favorite Staple Dishes and Where I Ate Them!": [
 		{
-			"City Name": "Seattle",
+			"City": "Seattle",
 			"Country": "Washington, U.S.",
-			"Current Population (Ranges from 2020 - 2023, Wikipedia)": "737,015",
+			"Current Population (Ranges from Years 2020 - 2023, Wikipedia)": "737,015",
 			"Food": "Clam Chowder"
 		},
 		{
-			"City Name": "Puerto Princesa",
+			"City": "Puerto Princesa",
 			"Country": "Philippines",
 			"Current Population (2020, Wikipedia)": "307,079",
 			"Food": "Crocodile Sisig"
 		},
 		{
-			"Title": "Osaka",
+			"City": "Osaka",
 			"Country": "Japan",
 			"Current Population (2021, Wikipedia)": "2,753,862",
 			"Food": "Okonomiyaki"
 		},
 		{
-			"City Name": "Harrisburg",
+			"City": "Harrisburg",
 			"Country": "Pennsylvania, U.S.",
 			"Current Population (2023, Wikipedia)": "50,183",
 			"Food": "Crab Pretzel"
 		},
 		{
-			"City Name": "Melbourne",
+			"City": "Melbourne",
 			"Country": "Australia",
 			"Current Population (2023, Wikipedia)": "5,207,145",
 			"Food": "Meat Pie"
 		},
 		{
-			"City Name": "San Jose",
+			"City": "San Jose",
 			"Country": "California, U.S.",
 			"Current Population (2020, Wikipedia)": "1,013,240",
 			"Food": "Cơm Tấm Thịt Nướng"
 		},
 		{
-			"City Name": "Los Angeles",
+			"City": "Los Angeles",
 			"Country": "California, U.S.",
 			"Current Population (2023, Wikipedia)": "3,898,747",
 			"Food": "Carne Asada Tacos"
 		},
 		{
-			"City Name": "Saigon",
+			"City": "Saigon",
 			"Country": "Vietnam",
 			"Current Population (2023, Wikipedia)": "9,456,700",
 			"Food": "Bánh Mì"
 		},
 		{
-			"City Name": "Sámara",
+			"City": "Sámara",
 			"Country": "Costa Rica",
 			"Current Population (2023, Wikipedia)": "3,512",
 			"Food": "Casado"
