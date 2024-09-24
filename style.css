@@ -34,15 +34,15 @@
   --bs-gold-800: #b7a57a;
   --bs-gray-900: #212529;
   --bs-primary: #4B2E83;
-  --bs-secondary: #2c3e50;
+  --bs-secondary: #b7a57a;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 26, 188, 156;
-  --bs-secondary-rgb: 44, 62, 80;
+  --bs-primary-rgb: 75, 46, 131;
+  --bs-secondary-rgb: 183, 165, 122;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
