@@ -3,14 +3,14 @@
 		{
 			"City": "Seattle",
 			"Country": "Washington, U.S.",
-			"Current Population (Ranges from Years 2020 - 2023, Wikipedia)": "737,015",
+			"Population (From Years up To 2023, Wikipedia)": "737,015",
 			"Food": "Clam Chowder"
 		},
 		{
 			"City": "Puerto Princesa",
 			"Country": "Philippines",
 			"Current Population (2020, Wikipedia)": "307,079",
-			"Food": "Crocodile Sisig"
+			"Food": "Sisig"
 		},
 		{
 			"City": "Osaka",
